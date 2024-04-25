@@ -1,0 +1,6 @@
+.img{
+    /* background-image: url(./assets/outdoor.jpg); */
+    background-image: url(./assets/outdoor2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
